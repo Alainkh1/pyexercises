@@ -195,3 +195,31 @@ print(is_odd_or_even(beta))   # should print 'odd'
 ```
 
 Which built-in function gives you the digits of an integer to loop over?
+
+---
+## 2026-10-29 14:01, in .
+
+**Me:** What is the difference between sort() and sorted() in Python
+
+**Tutor:**
+
+Sorting a list in place vs. returning a new sorted list.
+
+`sort()` changes the original list and returns None.
+`sorted()` returns a new list and leaves the original unchanged.
+
+```python
+# TODO: create a list of numbers
+numbers = [3, 1, 4]
+
+# TODO: use sort() on the list
+numbers.sort()
+
+# TODO: create the same list again
+numbers = [3, 1, 4]
+
+# TODO: use sorted() on the list
+new_list = sorted(numbers)
+```
+
+Which function returns a new list instead of modifying the original?
