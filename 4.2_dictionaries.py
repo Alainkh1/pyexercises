@@ -23,10 +23,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. My object, my five fields, and why those:
+# 1. In: Information about a supermarket product.
+# 2. Process: The program stores the information in a dictionary, reads it, changes a value, and removes a field.
+# 3. Out: The program displays the product information and the updated dictionary.
+# 4. My object is a supermarket product. I chose name, price, brand, category, and quantity because they help manage products and stock.
 
 
 # Your code below

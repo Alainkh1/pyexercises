@@ -280,3 +280,22 @@ Refused, off topic.
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-10-29 15:16, in .
+
+**Me:** How can I add a new field to an existing dictionary in Python
+
+**Tutor:**
+
+Adding a new key–value pair to a dictionary.
+
+```python
+# Example dictionary
+campaign = {"name": "Summer Sale", "budget": 5000}
+
+# TODO: add a new field 'ctr' with value 0.02
+campaign[ ... ] = ...
+```
+
+What is the syntax for assigning a value to a new key?
