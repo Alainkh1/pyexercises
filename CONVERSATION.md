@@ -86,3 +86,30 @@ Which argument controls ascending or descending order in `sorted()`?
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-10-29 11:23, in .
+
+**Me:** how to remove item from dictionary
+
+**Tutor:**
+
+Concept: Removing an item from a dictionary by its key.
+
+Pattern:
+```python
+# TODO: define a dictionary
+data = {"alpha": 1, "beta": 2, "gamma": 3}
+
+# TODO: choose the key to remove
+key_to_remove = "beta"
+
+# TODO: remove the key-value pair
+# Use the correct method and its argument
+data.________(key_to_remove)
+
+# TODO: print the dictionary to check
+print(data)
+```
+
+Question: Which method removes a key-value pair from a dictionary and takes the key as its argument?
