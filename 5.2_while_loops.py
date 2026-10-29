@@ -28,11 +28,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. My stop condition, my attempt limit, my summary:
-
+# 1. In: The user enters yes or no.
+# 2. Process: The program keeps asking until the user enters yes or no.
+# 3. Out: The program displays the user's choice.
+# 4. The loop stops when the user enters yes or no. The maximum should be 5 attempts, and the summary shows the final choice and number of attempts.
 
 # Your code below
 i = 0
