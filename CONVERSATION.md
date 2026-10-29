@@ -151,3 +151,21 @@ while True:
 ```
 
 What must you change in the condition so the loop stops after five repeats?
+
+---
+## 2026-10-29 13:41, in .
+
+**Me:** How can I change a sentence to uppercase or lowercase and remove extra spaces in Python
+
+**Tutor:**
+
+String case conversion and whitespace cleanup.
+
+```python
+def clean_text(text):
+    # TODO: convert text to uppercase
+    # TODO: remove extra spaces (leading, trailing, multiple in between)
+    return cleaned_text
+```
+
+What string method removes leading and trailing whitespace?
