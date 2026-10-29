@@ -299,3 +299,25 @@ campaign[ ... ] = ...
 ```
 
 What is the syntax for assigning a value to a new key?
+
+---
+## 2026-10-29 15:19, in .
+
+**Me:** How can I use a for loop in Python to find the longest name in a list
+
+**Tutor:**
+
+Finding the longest string in a list.
+
+```python
+names = ["alpha", "beta", "gamma"]
+
+longest = ""
+for name in names:
+    if len(name) > len(longest):
+        longest = name
+
+print(longest)
+```
+
+What does the variable `longest` hold after the loop ends?

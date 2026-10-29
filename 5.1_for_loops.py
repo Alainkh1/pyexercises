@@ -24,10 +24,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. What I compute for each item, and why it is worth showing:
+# 1. In: A list of 8 names.
+# 2. Process: The program uses a for loop to go through each name and calculate its length.
+# 3. Out: The program displays each name and its number of letters.
+# 4. I calculated the length of each name to show how many letters each person’s name contains.
 
 
 # Your code below
