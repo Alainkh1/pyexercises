@@ -169,3 +169,29 @@ def clean_text(text):
 ```
 
 What string method removes leading and trailing whitespace?
+
+---
+## 2026-10-29 13:51, in .
+
+**Me:** How can I use a for loop and the modulo operator to check if a number is odd or even in Python
+
+**Tutor:**
+
+Checking odd or even with a for loop is not the usual way; a single modulo check is enough.
+But if you must loop, you can test each digit.
+
+```python
+def is_odd_or_even(number):
+    # TODO: loop over each digit in `number`
+    # TODO: use % 2 on the digit to decide odd or even
+    pass
+
+# Toy data
+alpha = 1234
+beta  = 5678
+
+print(is_odd_or_even(alpha))  # should print 'even'
+print(is_odd_or_even(beta))   # should print 'odd'
+```
+
+Which built-in function gives you the digits of an integer to loop over?
