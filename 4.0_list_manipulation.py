@@ -26,10 +26,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. What my list is about, and what I computed from it:
+# 1. In: A list of 10 monthly sales numbers.
+# 2. Process: The program displays the list, selects one item, sorts the numbers, and calculates the total.
+# 3. Out: The original list, one selected number, the sorted list, and the total sales.
+# 4. My list contains supermarket sales. I calculated the total to see how much the supermarket sold.
 
 
 # Your code below
