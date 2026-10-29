@@ -133,3 +133,21 @@ for value in numbers:
 ```
 
 What built-in function would you use to create a range of numbers to loop over?
+
+---
+## 2026-10-29 11:48, in .
+
+**Me:** how to write a while loop in python
+
+**Tutor:**
+
+A while loop runs a block of code as long as a condition is true.
+
+```python
+# TODO: replace True with a real condition
+while True:
+    # TODO: write the body of the loop here
+    print("still running")
+```
+
+What must you change in the condition so the loop stops after five repeats?
