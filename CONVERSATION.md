@@ -113,3 +113,23 @@ print(data)
 ```
 
 Question: Which method removes a key-value pair from a dictionary and takes the key as its argument?
+
+---
+## 2026-10-29 11:37, in .
+
+**Me:** how to write a for loop in python
+
+**Tutor:**
+
+A **for loop** repeats a block of code for each item in a sequence.
+
+```python
+# Loop over a list of toy numbers
+numbers = [2, 4, 6]
+
+for value in numbers:
+    # TODO: print each value multiplied by 3
+    pass
+```
+
+What built-in function would you use to create a range of numbers to loop over?
