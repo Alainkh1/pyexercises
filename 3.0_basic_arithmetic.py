@@ -56,3 +56,9 @@ if number_2 != 0:
     print("the division of two numbers is: ", div)
 else:
     print("the second number is 0")
+
+sorted_list = list.sort()
+print("sorted list:",list)
+
+list.pop()
+print("list after popping last item:",list)
